@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.pinimg.com/564x/0b/bb/a0/0bbba0608d6844231d1b3ad7163f1053.jpg" height="230"/>
+    <img src="C:\Users\joseg\jozexo\hello world.png" height=""/>
   </p>
   <hr>
   <h1 align="center">I'm <a href="https://github.com/jozexo">José Hernández<a><imgsrc="C:\Users\joseg\jozexo\wave.gif" width="60px"/></h1>
