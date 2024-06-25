@@ -73,20 +73,12 @@
 ![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef) -->
 &emsp;
 <hr>
-<h1 align="center">Certifications! 🏆</h1>
-<Br>
+<h1 align="center">Some of my Projects! 🎨</h1>
   
-  |[![](https://img.shields.io/badge/c%23%20intermedio%20-badge?style=for-the-badge&logoColor=white&labelColor=black&color=black)](https://udemy-certificate.s3.amazonaws.com/image/UC-9b4832a7-4ca4-4b1b-acca-0685d7e8c285.jpg?v=1719254222000)|[![](https://img.shields.io/badge/Python%20intermedio-badge?style=for-the-badge&color=black)](https://cdn.mastermind.ac/certificates/e5fb7192be4c448986dea1f0baa82494.png?timestamp=1719280328)|[![](https://img.shields.io/badge/GIT%20INTERMEDIO-badge?style=for-the-badge&color=black)]()|[![](https://img.shields.io/badge/loADING-badge?style=for-the-badge&color=black)]()|[![](https://img.shields.io/badge/loADING-badge?style=for-the-badge&color=black)]()|
-|---|---|---|---|---|
-|[![](https://img.shields.io/badge/loADING-badge?style=for-the-badge&color=black)]()|[![](https://img.shields.io/badge/loADING-badge?style=for-the-badge&color=black)]()|[![](https://img.shields.io/badge/loADING-badge?style=for-the-badge&color=black)]()|[![](https://img.shields.io/badge/loADING-badge?style=for-the-badge&color=black)]()|[![](https://img.shields.io/badge/loADING-badge?style=for-the-badge&color=black)]()|
+[![ReadMe Card]()]()
 
-<Br>
 <hr>
-<Br>
-<h1>Thank You! 🤵 </h1>
-<Br>
+<h1 align="center">Thank You! 🤵 </h1>
 
-------
-  
 Credit: [Jozéxo](https://github.com/jozexo)
 Last Edited on: 24/06/2024
