@@ -2,7 +2,7 @@
     <img src="https://github.com/jozexo/jozexo/blob/main/hello%20world.jpg?raw=true" height="230"/>
   </p>
   <hr>
-  <h1 align="center">I'M <a href="https://github.com/jozexo">JOSÉ HERNÁNDEZ<a><img src="https://iconscout.com/free-lottie-animation/workspace-8249582" width="60px"/></h1>
+  <h1 align="center">I'M <a href="https://github.com/jozexo">JOSÉ HERNÁNDEZ<a><img src="https://github.com/jozexo/jozexo/blob/main/red.gif" width="60px"/></h1>
   <Br>
   <h1>ABOUT ME! 😎</h1>
   
