@@ -2,16 +2,17 @@
     <img src="https://github.com/jozexo/jozexo/blob/main/hello%20world.jpg?raw=true" height="230"/>
   </p>
   <hr>
-  <h1 align="center">I'm <a href="https://github.com/jozexo">José Hernández<a><img src="https://github.com/jozexo/jozexo/blob/main/wave.gif" width="60px"/></h1>
+  <h1 align="center">I'M <a href="https://github.com/jozexo">JOSÉ HERNÁNDEZ<a><img src="https://iconscout.com/free-lottie-animation/workspace-8249582" width="60px"/></h1>
   <Br>
-  <h1>About Me! 😎</h1>
+  <h1>ABOUT ME! 😎</h1>
   
-  - 🔭: Actualmente estoy estudiando en [Unimar Experience](https:/portalunimar.unimar.edu.ve/)
-  - 🌱: Actualmente estoy aprendiendo **C# y su Ecosistema** 🧠💻
-  - 🤔: Estoy buscando colaborar en **Proyectos de Python** 😅🐍
-  - 🤝: Estoy buscando ayuda con **Java y PHP** 📃✏️
-  - 💬: Pregúntame sobre **Python y Javascript** 🐍
-  - ⚡ :Dato curioso **Si estás leyendo esto, probablemente esté depurando**
+  
+  - 🔭: Actualmente estoy estudiando en [Unimar Experience](https:/portalunimar.unimar.edu.ve/).
+  - 🌱: Actualmente estoy aprendiendo **C# y su Ecosistema**. 🧠💻
+  - 🤔: Estoy buscando colaborar en **Proyectos de Python**. 😅🐍
+  - 🤝: Estoy buscando ayuda con **Java y PHP**. 📃✏️
+  - 💬: Pregúntame sobre **Python y Javascript**. 🐍
+  - ⚡ :Dato curioso **Si estás leyendo esto, probablemente esté depurando**.
 
   <hr>
   <Br>
