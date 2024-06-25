@@ -2,9 +2,9 @@
     <img src="https://github.com/jozexo/jozexo/blob/main/hello%20world.jpg?raw=true" height="230"/>
   </p>
   <hr>
-  <h1 align="center">I'm <a href="https://github.com/jozexo">José Hernández<a><imgsrc="C:\Users\joseg\jozexo\wave.gif" width="60px"/></h1>
+  <h1 align="center">I'm <a href="https://github.com/jozexo">José Hernández<a><img src="https://github.com/jozexo/jozexo/blob/main/wave.gif" width="60px"/></h1>
   <Br>
-  <h1>Sobre Mí! 😎</h1>
+  <h1>About Me! 😎</h1>
   
   - 🔭: Actualmente estoy estudiando en [Unimar Experience](https:/portalunimar.unimar.edu.ve/)
   - 🌱: Actualmente estoy aprendiendo **C# y su Ecosistema** 🧠💻
