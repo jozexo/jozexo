@@ -29,8 +29,6 @@
     
 &emsp;
 
-## 🛠️ My Skills
--------------------
 ### Programming languages:
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
